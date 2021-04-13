@@ -14,12 +14,12 @@ Fun fact: FoodFuse utilizes the Pantone 2020 color of the year, Classic Blue. ðŸ
 
 #### Image Previews
 ---
+#### Live
+![GIF](https://media.giphy.com/media/lyiWSxCSZ38U3q6eVD/giphy.gif)
 #### Homepage
 ![Imgur](https://i.imgur.com/4wh21ba.jpg)
-
 #### Data Page - after typing in location
 ![Imgur](https://i.imgur.com/UH0ll9u.jpg)
-
 ## Team
 ---
 * [Cristina Nguyen](https://github.com/crnguyen)
